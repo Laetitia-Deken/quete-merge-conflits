@@ -1,5 +1,6 @@
+# quete-merge-conflits - Training Quest GitHub Wild Code School
+
 LOCAL
-Quête Optionnelle 2 Wild Code School
 
 Bonjour, ceci est un test. Savez-vous d'où vient ce monologue culte du cinéma ?
 
